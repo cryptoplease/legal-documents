@@ -1,0 +1,375 @@
+TERMS OF USE
+
+August 25<sup>th</sup>, 2021
+
+Version 1
+
+
+```
+LEGAL NOTICE
+
+
+Crypto Please is an online service operated by Violette SAS, a French company registered in the Paris Trade and Commerce register under number 852 682 392, whose office is located at 12 Rue Vivienne, 75002 in Paris.
+
+
+```
+
+
+
+[TOC]
+
+
+
+
+
+
+1. Definitions 
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+Cryptocurrency
+   </td>
+   <td>Refers to any digital asset designed to work as a medium of exchange on blockchain and accepted in payment throughout the Services. 
+   </td>
+  </tr>
+  <tr>
+   <td>Crypto Please 
+   </td>
+   <td>Refers to Violette SAS, as well as all its subsidiaries, employees responsible for providing the Services.
+   </td>
+  </tr>
+  <tr>
+   <td>Platform
+   </td>
+   <td>Refers to the mobile app "Crypto Please" and the website <a href="https://cryptoplease.com/">cryptoplease.com</a> including any subdomains thereof, and any platform where the services referred to in the Terms of Use are available.
+   </td>
+  </tr>
+  <tr>
+   <td>User(s)
+   </td>
+   <td>Refers to the natural or legal person registered on the Platform and holding a Wallet 
+   </td>
+  </tr>
+  <tr>
+   <td>Service(s)
+   </td>
+   <td>Refers to every service accessible on the Platform for an User holding a Wallet.
+   </td>
+  </tr>
+  <tr>
+   <td>Terms of Use         (ToU) 
+   </td>
+   <td>Refers to these terms of use for Crypto Please Services, which constitutes a legally binding agreement between each User and Crypto Please (as defined above) governing the User's access to and use of the Platform and all associated Services as defined below. 
+   </td>
+  </tr>
+  <tr>
+   <td>Third-Party
+   </td>
+   <td>Refers to any person, natural or legal, apart from Crypto Please and Users.
+   </td>
+  </tr>
+  <tr>
+   <td>Transactions
+   </td>
+   <td>Means all operations of receiving and sending Cryptocurrencies from the Wallet provided on the Platform. 
+   </td>
+  </tr>
+  <tr>
+   <td>Wallet
+   </td>
+   <td>Refers to the non-custodial wallet furnished by Crypto Please to each User, the latter having sole control of their private keys enabling access to his/her cryptocurrencies. 
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+
+2. Disclaimer
+
+
+
+    1. 
+These ToU apply, without restriction or reservation, to any use of the Services.
+
+
+    2. 
+The User acknowledges that he/she has, in his/her country, the capacity to contract and to subscribe to the Platform and declares that he/she has read and accepted without restriction of reservation the ToU by checking a box during registration to prove his/her acceptance of the present agreement.
+
+
+    3. 
+Crypto Please reserves the right to modify or stop the accessibility of all or part of the Services and/or the Platform at any time.
+
+
+    4. 
+Unless proven otherwise, the data recorded in Crypto Please’s computer system constitutes proof of all uses of the Service made by the User.
+
+
+    5. 
+The Services may contain links or content from Third-Party websites or resources. Such Third-Party services may be subject to different terms of use and privacy practices. Crypto Please is not responsible or liable for the availability, accuracy, content, products, or services made available by such Third Party. Such links are not an endorsement by Crypto Please of these Third-Party services.
+
+
+    6. 
+These ToU are accessible at any time on the Platform and will prevail over any other version or any other contradictory document.
+
+
+    7. 
+Crypto Please reserves the right to modify, at any time, all or part of the ToU. Users' use of the Service constitutes their acceptance of the ToU amendment. The applicable version to the User is the one in force on the Platform on the date of using the Services.
+
+
+3. Services
+
+
+
+    8. 
+Scope of the Services
+
+
+        1. 
+Crypto Please is an online Wallet that enables Users to: 
+
+
+* create a Wallet that interacts with various blockchains and enables each User to monitor its balances of assets and to execute Transactions, i.e. receive, send and store Cryptocurrencies ; 
+* share a dedicated link allowing sending Cryptocurrencies to users who do not have a Wallet. In this event, such users are invited to create a Wallet on the Platform; 
+* display the rate of Cryptocurrencies in fiat currency ;
+* backup and restore private and public keys under the sole User responsibility ;
+
+
+
+    9. 
+Pre-contractual information
+
+
+        2. 
+By using the Platform, Users acknowledge to be aware of the following information: 
+
+
+* Cryptocurrencies and custody services rely on emerging technologies presenting risk of failure, bug or malfunction; 
+* the value of Cryptocurrencies is not guaranteed and depends on unregulated markets (in which fraudulent acts may occur); in the event of a drop of a Cryptocurrency's value, the authorities or Crypto Please will not be able to compensate him/her or guarantee a minimum amount; Cryptocurrencies may be banned or subject to a regulatory framework that could significantly or totally lower its value.
+
+
+
+    10. 
+Support 
+
+
+        3. 
+Support is available at this email address: contact@cryptoplease.com. 
+
+
+        4. 
+The Service undertakes to respond as quickly as possible, depending on the number of requests in process.
+
+
+4. Wallet
+
+
+
+    11. 
+Use, creation and access
+
+
+        5. 
+The Service provides each User with a unique Wallet to ensure the conservation and the use of Cryptocurrencies within the Service.
+
+
+        6. 
+ Any User can create a Wallet on the Service by :
+
+
+* installing the application ; 
+* saving carefully a recovery phrase provided by the app. This secret recovery phrase allows the user to recover a Wallet in case of stolen device for example ;
+* accepting the Terms. 
+
+
+
+        7. 
+Users are free to use the Wallet to execute Transactions from the Platform. He/She may credit or debit the Wallet with his/her own Cryptocurrencies at any time.
+
+
+        8. 
+It is the User's responsibility to take all measures to secure access to his/her Wallet. Crypto Please shall not be held liable for the loss or theft of the secret recovery phrase by the User, or by the resulting Wallet impersonation or access loss. 
+
+
+    12. 
+Deletion
+
+
+        9. 
+Crypto Please reserves the right to suspend or delete a Wallet in violation of these Terms of Use, without prior notice or compensation.
+
+
+        10. 
+The User may, at any time, request the deletion of his/her Wallet under the conditions set out by the Platform.
+
+
+        11. 
+The Service shall not be held liable, in any circumstances, for any loss arising from a Wallet deletion. 
+
+
+5. Withdrawal exclusion
+
+
+
+    13. 
+Given the digital nature of the Services, the withdrawal period provided for in Articles L. 221-18 et seq. of the French Consumer Code and the article 9 of the European directive related to Consumer Right Protection shall not apply.
+
+
+    14. 
+**BY USING THE SERVICES, THE USER EXPRESSLY WAIVES HIS/HER RIGHT OF WITHDRAWAL.**
+
+
+6. User’s liability
+
+
+
+    15. 
+The User guarantees Crypto Please against any breach, exceeding the foreseeable risk, any fraudulent unfair or bad faith use of the Services, in particular if this interferes with the use of the service by other Users, and any error in the amount sent to the Wallet.
+
+
+    16. 
+The User agrees to indemnify, defend, and hold Crypto Please harmless against all claims arising out from the use of the Services.
+
+
+    17. 
+The User further agrees to indemnify and hold Crypto Please harmless against any and all liability, loss, damages, costs, claims and/or expenses, including but not limited to reasonable attorney’s fees, which Crypto Please may hereafter incur, suffer or be required to pay by reason of such claims.
+
+
+    18. 
+The User undertakes to use the Services only in accordance with these Terms of Use. It is not authorized to reconstruct the Services, decompile, disassemble or circumvent the technical restrictions it contains, except to the extent that such operations would be permitted by applicable laws. It is also prohibited to lend, rent, lease, resell, transfer or host the Service to or for any Third Party, unless expressly authorized by the Platform. 
+
+
+7. Crypto Please’s liability 
+
+
+
+    19. 
+Crypto Please undertakes to perform its obligations with the care normally expected from a professional in his professional field and to comply with the professional customs in force. Crypto Please undertakes to implement all the necessary means to ensure the best delivery of the Services provided. However, Crypto Please can only be bound by an obligation of best endeavour. 
+
+
+    20. 
+Except as expressly provided in this section, the service and the services provided by crypto please to Users are provided “as is” and Crypto Please and its suppliers, if any, make no warranty of any kind, express or implied, regarding the service, and specifically disclaim the warranties of merchantability fitness for a particular purpose, and non-infringement, to the maximum extent possible by law. Crypto Please does not warrant that the service will meet User’s requirements, operate without interruption or be accurate, complete, reliable, current or error-free.
+
+
+    21. 
+Thus, Crypto Please’s liability may only be incurred if the User proves that (i) the company acted wrongfully and intentionally and (ii) exclusively if this behaviour caused him/her a  certain, personal, reasonably foreseeable and direct damage, unless otherwise provided by law or regulation. 
+
+
+    22. 
+In particular, Crypto Please disclaims all liability and indemnification obligations for any harm or damages caused by any Third-Party; breakdowns or malfunctions of the Services offered that are not under control of the company; Users data losses; Users losses of revenue; any unusual or illegal use of the Services offered, by a Third Party or by a User; indirect damages that may result from failure or use of the Services; any cyber attack, malicious  code,  malware,  bots,  worms,  trojans,  backdoors, exploits, cheats, fraud, hacks, hidden diagnostics, or other mechanisms to disable security or content protection that is resulting from a User’s network or system; any adverse event during Transactions; any case of force majeure according to the Article 1218 of the French civil code.
+
+
+    23. 
+The User is informed that Crypto Please may occasionally interrupt access to all or part of the Services:
+
+
+* to allow for repairs, maintenance, or functionality enhancements;
+* in case of suspicion of attempted hacking, embezzlement or any other risk of harm;
+* on requests or instructions from authorised persons or competent authorities.
+
+
+
+    24. 
+Crypto Please cannot be held responsible in any way for any damages resulting from these suspensions.
+
+
+    25. 
+In no event, Crypto Please shall not be held liable beyond the total amounts actually paid by the claiming User to Crypto Please in the twelve (12) month period immediately preceding the events giving rise to such claims, unless otherwise provided by law or regulation. 
+
+
+8. Privacy policy
+
+
+
+    26. 
+Crypto Please has implemented a Privacy Policy, which explains in detail why and how personal data are processed when a User accesses the Platform and uses the Services, available here: [https://cryptoplease.com/privacy-policy](https://cryptoplease.com/privacy-policy). 
+ 
+
+
+
+9. Intellectual property
+
+
+
+    27. 
+All intellectual property rights on the Platform content, excluding the Users generated content, are Crypto Please's property. They are provided free of charge within the exclusive framework of the use of the Service. Therefore, any use of these contents without the prior permission of Crypto Please is unlawful.
+
+
+    28. 
+Crypto Please is the Services database producer. Any unauthorized extraction or reproduction is prohibited.
+
+
+10. Termination
+
+
+
+    29. 
+In the event of a change in the applicable regulations and the interpretation made thereof by the relevant regulatory authority, affecting the capacity of Crypto Please or its employees delivert the Services or orders, these Terms of Use will automatically be terminated.
+
+
+    30. 
+The termination of the contractual relation between Crypto Please and an User will entail the closing of his/her Wallet. The closing of a Wallet may not give rise to any compensation. Unless expressly agreed by Crypto Please, the User whose Wallet has been closed will not be authorized to open another Wallet. 
+
+
+    31. 
+The User will no longer be able to make Transactions as of the effective date of the termination. However, the Wallet may be kept open for a period of ___ months to cover any disputes and subsequent claims. Transactions initiated before the effective date of termination will not be affected by the request for termination and must be executed under the terms of these ToU.
+
+
+    32. 
+Crypto Please reserves the right, without prejudice to the consequences of the termination of the contract, to assert its claims in court for damages arising from the termination. 
+
+
+11. Non waiver
+
+
+
+    33. 
+Failure by Crypto Please at any time to require the other party to perform any of its obligations under these ToU will not affect the right of Crypto Please to request their execution thereafter.
+
+
+    34. 
+The nullity of any clause of these ToU does not affect the validity and the obligation to respect the other clauses.
+
+
+12. Applicable law, disputes and jurisdiction
+
+
+
+    35. 
+Applicable law
+These Terms of Use are governed by French law solely.
+
+
+
+    36. 
+Disputes
+
+
+        12. 
+In the event of a dispute arise between Crypto Please and a User, the latter undertakes to inform the support team at the following address: contact@cryptoplease.com taking care to specify his contact details and to provide any information allowing to appreciate the origin and the implications of the dispute.
+
+
+        13. 
+An acknowledgment of receipt will be sent within a maximum period of ten (10) days. Claims will be processed within a maximum of two months as of their receipt.
+
+
+        14. 
+The User can also contact the online dispute resolution service of the European Commission at the following address: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
+
+
+    37. 
+Jurisdiction
+Unless otherwise provided by law, all disputes to which the use of Services provided concluded pursuant to these ToU may give rise, concerning their validity, interpretation, execution, termination and consequences, shall be submitted to the competent courts under the jurisdiction of the Paris Court of Appeal.
