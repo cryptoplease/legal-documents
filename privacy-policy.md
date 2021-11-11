@@ -10,13 +10,6 @@ LEGAL NOTICE
 
 Crypto Please is an online service operated by Violette SAS, a French company registered in the Paris Trade and Commerce register under number 852 682 392, whose office is located at 12 Rue Vivienne, 75002 in Paris.
 
-**Table of contents **
-
-
-[TOC]
-
-
-
 # Article 1 - Foreword
 
 Crypto Please (hereinafter referred to as “**Crypto Please**” or the “**Company**”) is an online wallet service, allowing its users (the “**Users**” or “**You**”) to receive, send and store crypto assets (the “**Service**”). 
