@@ -1,25 +1,15 @@
 TERMS OF USE
 
-August 25<sup>th</sup>, 2021
+August 25th, 2021
 
 Version 1
 
 
-```
+
 LEGAL NOTICE
 
 
 Crypto Please is an online service operated by Violette SAS, a French company registered in the Paris Trade and Commerce register under number 852 682 392, whose office is located at 12 Rue Vivienne, 75002 in Paris.
-
-
-```
-
-
-
-[TOC]
-
-
-
 
 
 # Article 1 - Definitions 
