@@ -14,76 +14,32 @@ Crypto Please is an online service operated by Violette SAS, a French company re
 
 # Article 1 - Definitions 
 
+**Cryptocurrency:**
+Refers to any digital asset designed to work as a medium of exchange on blockchain and accepted in payment throughout the Services. 
 
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Cryptocurrency
-   </td>
-   <td>Refers to any digital asset designed to work as a medium of exchange on blockchain and accepted in payment throughout the Services. 
-   </td>
-  </tr>
-  <tr>
-   <td>Crypto Please 
-   </td>
-   <td>Refers to Violette SAS, as well as all its subsidiaries, employees responsible for providing the Services.
-   </td>
-  </tr>
-  <tr>
-   <td>Platform
-   </td>
-   <td>Refers to the mobile app "Crypto Please" and the website <a href="https://cryptoplease.com/">cryptoplease.com</a> including any subdomains thereof, and any platform where the services referred to in the Terms of Use are available.
-   </td>
-  </tr>
-  <tr>
-   <td>User(s)
-   </td>
-   <td>Refers to the natural or legal person registered on the Platform and holding a Wallet 
-   </td>
-  </tr>
-  <tr>
-   <td>Service(s)
-   </td>
-   <td>Refers to every service accessible on the Platform for an User holding a Wallet.
-   </td>
-  </tr>
-  <tr>
-   <td>Terms of Use         (ToU) 
-   </td>
-   <td>Refers to these terms of use for Crypto Please Services, which constitutes a legally binding agreement between each User and Crypto Please (as defined above) governing the User's access to and use of the Platform and all associated Services as defined below. 
-   </td>
-  </tr>
-  <tr>
-   <td>Third-Party
-   </td>
-   <td>Refers to any person, natural or legal, apart from Crypto Please and Users.
-   </td>
-  </tr>
-  <tr>
-   <td>Transactions
-   </td>
-   <td>Means all operations of receiving and sending Cryptocurrencies from the Wallet provided on the Platform. 
-   </td>
-  </tr>
-  <tr>
-   <td>Wallet
-   </td>
-   <td>Refers to the non-custodial wallet furnished by Crypto Please to each User, the latter having sole control of their private keys enabling access to his/her cryptocurrencies. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+**Crypto Please:**
+Refers to Violette SAS, as well as all its subsidiaries, employees responsible for providing the Services.
 
+**Platform:**
+Refers to the mobile app "Crypto Please" and the website <a href="https://cryptoplease.com/">cryptoplease.com</a> including any subdomains thereof, and any platform where the services referred to in the Terms of Use are available.
+
+**User(s):**
+Refers to the natural or legal person registered on the Platform and holding a Wallet 
+
+**Service(s):**
+Refers to every service accessible on the Platform for an User holding a Wallet.
+
+**Terms of Use (ToU):**
+Refers to these terms of use for Crypto Please Services, which constitutes a legally binding agreement between each User and Crypto Please (as defined above) governing the User's access to and use of the Platform and all associated Services as defined below. 
+
+**Third-Party:**
+Refers to any person, natural or legal, apart from Crypto Please and Users.
+
+**Transactions:**
+Means all operations of receiving and sending Cryptocurrencies from the Wallet provided on the Platform. 
+
+**Wallet:**
+Refers to the non-custodial wallet furnished by Crypto Please to each User, the latter having sole control of their private keys enabling access to his/her cryptocurrencies. 
 
 
 # Article 2 - Disclaimer
