@@ -46,7 +46,7 @@ Refers to the non-custodial wallet furnished by Crypto Please to each User, the 
 
 These ToU apply, without restriction or reservation, to any use of the Services.
 
-The User acknowledges that he/she has, in his/her country, the capacity to contract and to subscribe to the Platform and declares that he/she has read and accepted without restriction of reservation the ToU by checking a box during registration to prove his/her acceptance of the present agreement.
+The User acknowledges that he/she has, in his/her country, the capacity to contract and to subscribe to the Platform and declares that he/she has read and accepted without restriction of reservation the ToU by creating a Wallet or use an existing Wallet on the Platform.
 
 Crypto Please reserves the right to modify or stop the accessibility of all or part of the Services and/or the Platform at any time.
 
@@ -86,7 +86,7 @@ By using the Platform, Users acknowledge to be aware of the following informatio
 
 ## Support 
 
-Support is available at this email address: contact@cryptoplease.com. 
+Support is available at this email address: support@cryptoplease.com. 
 
 The Service undertakes to respond as quickly as possible, depending on the number of requests in process.
 
@@ -98,7 +98,7 @@ The Service undertakes to respond as quickly as possible, depending on the numbe
 
 The Service provides each User with a unique Wallet to ensure the conservation and the use of Cryptocurrencies within the Service.
 
-Any User can create a Wallet on the Service by :
+Any User can create a Wallet or use an existing Wallet on the Service by :
 
 
 
@@ -203,7 +203,7 @@ These Terms of Use are governed by French law solely.
 
 ## Disputes
 
-In the event of a dispute arise between Crypto Please and a User, the latter undertakes to inform the support team at the following address: contact@cryptoplease.com taking care to specify his contact details and to provide any information allowing to appreciate the origin and the implications of the dispute.
+In the event of a dispute arise between Crypto Please and a User, the latter undertakes to inform the support team at the following address: support@cryptoplease.com taking care to specify his contact details and to provide any information allowing to appreciate the origin and the implications of the dispute.
 
 An acknowledgment of receipt will be sent within a maximum period of ten (10) days. Claims will be processed within a maximum of two months as of their receipt.
 
